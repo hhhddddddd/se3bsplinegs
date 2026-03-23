@@ -1,6 +1,6 @@
 # Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos (CVPR 2026)
 
-Xuankai Zhang, Junjin Xiao, Shangwei Huang, Wei-shi Zheng, and Qing Zhang
+Xuankai Zhang, Junjin Xiao, Shangwei Huang, Wei-shi Zheng, and Qing Zhang*
 
 <!-- project page and paper -->
 <!-- [Project Page](https://dydeblur.github.io/) &nbsp; [Paper](https://arxiv.org/abs/2510.10691)  -->
