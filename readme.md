@@ -22,8 +22,8 @@ Our method synthesizes high-quality novel views from monocular videos.
 
 ## Todo
 <!-- - [ ] ~~Release Paper, Example Code~~ -->
-- [ ] Release Paper
-- [ ] Release Code
+- [ ] Release Paper (Coming soon)
+- [ ] Release Code (Coming soon)
 - [ ] Clean Code
 
 <!-- ## Setup
