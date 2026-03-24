@@ -1,4 +1,4 @@
-# Dynamic Gaussian Splatting from Defocused and Motion-blurred Monocular Videos (CVPR 2026)
+# Learning Explicit Continuous Motion Representation for Dynamic Gaussian Splatting from Monocular Videos (CVPR 2026)
 
 Xuankai Zhang, Junjin Xiao, Shangwei Huang, Wei-shi Zheng, and Qing Zhang*
 
