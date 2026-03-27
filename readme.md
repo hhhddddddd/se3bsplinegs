@@ -4,6 +4,7 @@ Xuankai Zhang, Junjin Xiao, Shangwei Huang, Wei-shi Zheng, and Qing Zhang*
 
 <!-- project page and paper -->
 <!-- [Project Page](https://dydeblur.github.io/) &nbsp; [Paper](https://arxiv.org/abs/2510.10691)  -->
+[Paper](https://arxiv.org/abs/2603.25058)
 
 <!-- pageviews -->
 <!-- <a href="https://info.flagcounter.com/dhPB"><img src="https://s01.flagcounter.com/mini/dhPB/bg_FFFFFF/txt_000000/border_FFFFFF/flags_0/" alt="Flag Counter" border="0"></a> -->
@@ -22,7 +23,7 @@ Our method synthesizes high-quality novel views from monocular videos.
 
 ## Todo
 <!-- - [ ] ~~Release Paper, Example Code~~ -->
-- [ ] Release Paper (Coming soon)
+- [x] ~~Release Paper~~ 
 - [ ] Release Code (Coming soon)
 - [ ] Clean Code
 
