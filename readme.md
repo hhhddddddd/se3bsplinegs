@@ -64,7 +64,7 @@ This repo is developed based on several amazing prior works:
 - `HiMoR`: https://github.com/pfnet-research/himor
 - `MarbleGS`: https://github.com/coltonstearns/dynamic-gaussian-marbles
 - `MoDec-GS`: https://github.com/skwak-kaist/MoDec-GS
-- DreamScene4D: https://github.com/dreamscene4d/dreamscene4d
+- `DreamScene4D`: https://github.com/dreamscene4d/dreamscene4d
 
 
 ## BibTeX
